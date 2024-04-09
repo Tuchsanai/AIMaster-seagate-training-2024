@@ -1,4 +1,4 @@
-# AIMaster-seagate-training-2024
+
 
 
 # Mastering AI Technologies: Prompt Engineering, Hugging Face and Integrating AI Technologies
