@@ -32,11 +32,6 @@ colabconnect()
 
 
 
-```python
-from colabconnect import colabconnect
-
-colabconnect()
-```
 
 # install the Remote  plugin in Vscode
 ```
