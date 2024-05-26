@@ -12,7 +12,22 @@ Please use the tool at your own risk as it might break Google Colab's [TOS](http
 
 On Google Colab, first install the library and the run the code.
 ```shell
+
+import IPython
+import sys
+
+def clean_notebook():
+    IPython.display.clear_output(wait=True)
+    print("Notebook cleaned.")
+
 !pip install -U git+https://github.com/Tuchsanai/colab-connect.git
+
+# Clean up the notebook
+clean_notebook()
+
+from colabconnect import colabconnect
+colabconnect()
+
 ```
 
 
