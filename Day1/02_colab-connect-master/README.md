@@ -25,12 +25,14 @@ def clean_notebook():
 # Clean up the notebook
 clean_notebook()
 
+```
+
+```
+
 from colabconnect import colabconnect
 colabconnect()
 
 ```
-
-
 
 
 # install the Remote  plugin in Vscode
