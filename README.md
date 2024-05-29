@@ -1,4 +1,5 @@
 
+![Alt text](./Dataset/QR.jpg)
 
 
 # Mastering AI Technologies: Prompt Engineering, Hugging Face and Integrating AI Technologies
