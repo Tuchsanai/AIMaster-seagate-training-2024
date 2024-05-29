@@ -1,5 +1,5 @@
 
-![Alt text](./Dataset/QR.jpg)
+![Alt text](./Dataset/github_qr_code.png)
 
 
 # Mastering AI Technologies: Prompt Engineering, Hugging Face and Integrating AI Technologies
