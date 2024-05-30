@@ -30,3 +30,6 @@ This repository provides an overview of mastering key AI technologies, including
    - สร้างระบบต้นแบบทางด้านวิศวกรรมด้วย CLIP
    - Zero-shot Object Detection and Segmentation
    - Object Detection and Segmentation
+
+
+![Alt text](./Dataset/ss4.jpg)
