@@ -1,1 +1,0 @@
-my_sk = "paste sk here"
