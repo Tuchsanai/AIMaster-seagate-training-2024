@@ -1,1 +1,0 @@
-# Grounding DINO notebooks
