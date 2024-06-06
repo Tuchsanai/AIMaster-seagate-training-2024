@@ -1,6 +1,8 @@
 
 ![Alt text](./Dataset/github_qr_code.png)
 
+email : tuchsanai@it.kmitl.ac.th
+
 
 # Mastering AI Technologies: Prompt Engineering, Hugging Face and Integrating AI Technologies
 
